@@ -2,6 +2,30 @@
 
 這是一個持續更新的 Python 爬蟲案例分享專案，旨在供學習交流之用，嚴禁用於商業用途。
 
+---
+
+<p align="center">
+    <a href="https://github.com/JeremyOp666/python_spider/stargazers">
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/your_username/your_repo?style=social">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/python-v3-blue?style=flat-square" alt="Python version" />
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
+    </a>
+    <a>
+        <img src="https://img.shields.io/website?up_message=%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3&url=https%3A%2F%2Finfospider.vercel.app%2F" alt="Usage documentation" />
+    </a>
+    <a>
+        <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JeremyOp666/python_spider?style=flat-square">
+    </a>
+    <a>
+        <img alt="License" src="https://img.shields.io/badge/license-MIT-blue?style=flat-square">
+    </a>
+</p>
+
+
 ## 專案簡介
 
 這個專案持續地收集、整理並分享一些網站的爬蟲例子，讓大家可以學習和交流。專案中包含各種不同類型的爬蟲案例，涵蓋了各種網站的爬取和數據提取。
